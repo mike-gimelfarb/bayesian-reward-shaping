@@ -27,7 +27,7 @@ The new version includes the following bug fixes:
 
 ## References
 
-- Gimelfarb, Michael, et al. “Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach.” Advances in Neural Information Processing Systems (NIPS). Forthcoming.
+- Gimelfarb, Michael, Scott Sanner, and Chi-Guhn Lee. “Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach.” Advances in Neural Information Processing Systems (NIPS). Forthcoming.
 - Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep Reinforcement Learning with Double Q-Learning." AAAI. Vol. 2. 2016.
 - Kunuth, D. "The Art of Computer Programming vol. 2 Seminumerical Algorithms." (1998).
 - Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).
