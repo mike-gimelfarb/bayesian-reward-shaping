@@ -4,7 +4,7 @@ Bayesian Reward Shaping Ensemble Framework for Deep Reinforcement Learning.
 
 ## Description
 
-This small and fairly self-contained (see prerequisites below) package accompanies an upcoming article to be published in Advances in Neural Information Processing Systems (NIPS) entitled "Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach" (the article link will be provided soon).
+This small and fairly self-contained (see prerequisites below) package accompanies an upcoming article to be published in Advances in Neural Information Processing Systems (NeurIPS) entitled "Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach" (the article link will be provided soon).
 
 This packages provides an online and efficient Bayesian ensemble algorithm for potential-based reward shaping by combining multiple experts (potential function). 
 
@@ -27,7 +27,7 @@ The new version includes the following bug fixes:
 
 ## References
 
-- Gimelfarb, Michael, Scott Sanner, and Chi-Guhn Lee. “Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach.” Advances in Neural Information Processing Systems (NIPS). Forthcoming.
+- Gimelfarb, Michael, Scott Sanner, and Chi-Guhn Lee. “Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach.” Advances in Neural Information Processing Systems (NeurIPS). Forthcoming.
 - Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep Reinforcement Learning with Double Q-Learning." AAAI. Vol. 2. 2016.
 - Kunuth, D. "The Art of Computer Programming vol. 2 Seminumerical Algorithms." (1998).
 - Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).
