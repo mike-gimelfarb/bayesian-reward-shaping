@@ -39,8 +39,8 @@ To cite the framework:
 
 ## References
 
-[1] Gimelfarb, Michael, Scott Sanner, and Chi-Guhn Lee. "Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach." Advances in Neural Information Processing Systems. 2018.
-[2] Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep Reinforcement Learning with Double Q-Learning." AAAI. Vol. 2. 2016.
-[3] Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).
-[4] Ng, Andrew Y., Daishi Harada, and Stuart Russell. "Policy invariance under reward transformations: Theory and application to reward shaping." ICML. Vol. 99. 1999.
-[5] Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 1998.
+- [1] Gimelfarb, Michael, Scott Sanner, and Chi-Guhn Lee. "Reinforcement Learning with Multiple Experts: A Bayesian Model Combination Approach." Advances in Neural Information Processing Systems. 2018.
+- [2] Van Hasselt, Hado, Arthur Guez, and David Silver. "Deep Reinforcement Learning with Double Q-Learning." AAAI. Vol. 2. 2016.
+- [3] Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).
+- [4] Ng, Andrew Y., Daishi Harada, and Stuart Russell. "Policy invariance under reward transformations: Theory and application to reward shaping." ICML. Vol. 99. 1999.
+- [5] Sutton, Richard S., and Andrew G. Barto. Reinforcement learning: An introduction. MIT press, 1998.
